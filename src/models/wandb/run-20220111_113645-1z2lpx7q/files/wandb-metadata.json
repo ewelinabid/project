@@ -1,0 +1,16 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.3",
+    "heartbeatAt": "2022-01-11T10:36:47.891890",
+    "startedAt": "2022-01-11T10:36:45.929278",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train_model.py",
+    "codePath": "train_model.py",
+    "host": "Ewelinas-MacBook-Air.local",
+    "username": "ewelina",
+    "executable": "/opt/anaconda3/bin/python"
+}
